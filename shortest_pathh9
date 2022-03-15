@@ -1,0 +1,442 @@
+2021-01-03 00:19:13.269187
+[[26. 25. 26.  0. 25. 26.  0.  0.  0.]
+ [ 0.  0.  0.  0. 24.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0. 24.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0. 25.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+('switch', 1)
+flooooooooooooooooooooooooded
+('switch', 2)
+flooooooooooooooooooooooooded
+('switch', 4)
+flooooooooooooooooooooooooded
+('switch', 5)
+flooooooooooooooooooooooooded
+('switch', 5)
+flooooooooooooooooooooooooded
+('switch', 7)
+flooooooooooooooooooooooooded
+('switch', 3)
+flooooooooooooooooooooooooded
+('switch', 6)
+flooooooooooooooooooooooooded
+('switch', 8)
+flooooooooooooooooooooooooded
+('switch', 4)
+flooooooooooooooooooooooooded
+('switch', 8)
+flooooooooooooooooooooooooded
+('switch', 2)
+flooooooooooooooooooooooooded
+('switch', 6)
+flooooooooooooooooooooooooded
+('switch', 8)
+flooooooooooooooooooooooooded
+('switch', 6)
+flooooooooooooooooooooooooded
+('switch', 3)
+flooooooooooooooooooooooooded
+('switch', 9)
+flooooooooooooooooooooooooded
+('switch', 7)
+flooooooooooooooooooooooooded
+('switch', 9)
+flooooooooooooooooooooooooded
+('switch', 1)
+flooooooooooooooooooooooooded
+('switch', 7)
+flooooooooooooooooooooooooded
+('switch', 7)
+flooooooooooooooooooooooooded
+('switch', 9)
+flooooooooooooooooooooooooded
+('switch', 1)
+flooooooooooooooooooooooooded
+('switch', 3)
+flooooooooooooooooooooooooded
+('switch', 3)
+flooooooooooooooooooooooooded
+('switch', 9)
+flooooooooooooooooooooooooded
+('switch', 5)
+flooooooooooooooooooooooooded
+('switch', 9)
+flooooooooooooooooooooooooded
+('switch', 5)
+flooooooooooooooooooooooooded
+('switch', 9)
+flooooooooooooooooooooooooded
+('switch', 2)
+flooooooooooooooooooooooooded
+('switch', 9)
+elapsed time: 0:00:00.000223
+2021-01-03 00:19:19.872575
+shortest path between 9 and 1 is [9, 8, 7, 4, 1]
+
+
+
+('switch', 8)
+elapsed time: 0:00:00.000090
+2021-01-03 00:19:19.879899
+shortest path between 8 and 9 is [8, 9]
+
+
+
+('switch', 4)
+elapsed time: 0:00:00.000138
+2021-01-03 00:19:19.882306
+shortest path between 4 and 9 is [4, 7, 8, 9]
+
+
+
+('switch', 6)
+elapsed time: 0:00:00.000133
+2021-01-03 00:19:19.885315
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 9)
+elapsed time: 0:00:00.000096
+2021-01-03 00:19:19.891396
+shortest path between 9 and 1 is [9, 8, 7, 4, 1]
+
+
+
+('switch', 2)
+elapsed time: 0:00:00.000124
+2021-01-03 00:19:19.893387
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 8)
+elapsed time: 0:00:00.000104
+2021-01-03 00:19:19.898530
+shortest path between 8 and 9 is [8, 9]
+
+
+
+('switch', 4)
+elapsed time: 0:00:00.000095
+2021-01-03 00:19:19.902766
+shortest path between 4 and 9 is [4, 7, 8, 9]
+
+
+
+('switch', 6)
+elapsed time: 0:00:00.000125
+2021-01-03 00:19:19.904787
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 4)
+elapsed time: 0:00:00.000109
+2021-01-03 00:19:19.908208
+shortest path between 4 and 9 is [4, 7, 8, 9]
+
+
+
+('switch', 6)
+elapsed time: 0:00:00.000133
+2021-01-03 00:19:19.911974
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 2)
+elapsed time: 0:00:00.000091
+2021-01-03 00:19:19.916931
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 8)
+elapsed time: 0:00:00.000087
+2021-01-03 00:19:19.919858
+shortest path between 8 and 9 is [8, 9]
+
+
+
+('switch', 4)
+elapsed time: 0:00:00.000153
+2021-01-03 00:19:19.921795
+shortest path between 4 and 9 is [4, 7, 8, 9]
+
+
+
+('switch', 2)
+elapsed time: 0:00:00.000092
+2021-01-03 00:19:19.924794
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 6)
+elapsed time: 0:00:00.000096
+2021-01-03 00:19:19.929185
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 6)
+elapsed time: 0:00:00.000099
+2021-01-03 00:19:19.933609
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 2)
+elapsed time: 0:00:00.000143
+2021-01-03 00:19:19.936024
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 8)
+elapsed time: 0:00:00.000090
+2021-01-03 00:19:19.941115
+shortest path between 8 and 9 is [8, 9]
+
+
+
+('switch', 4)
+elapsed time: 0:00:00.000141
+2021-01-03 00:19:19.943953
+shortest path between 4 and 9 is [4, 7, 8, 9]
+
+
+
+('switch', 8)
+elapsed time: 0:00:00.000099
+2021-01-03 00:19:19.949201
+shortest path between 8 and 9 is [8, 9]
+
+
+
+('switch', 5)
+elapsed time: 0:00:00.000090
+2021-01-03 00:19:19.953176
+shortest path between 5 and 9 is [5, 6, 9]
+
+
+
+('switch', 1)
+elapsed time: 0:00:00.000139
+2021-01-03 00:19:19.955564
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 8)
+elapsed time: 0:00:00.000104
+2021-01-03 00:19:19.960402
+shortest path between 9 and 1 is [9, 8, 7, 4, 1]
+
+
+
+('switch', 8)
+elapsed time: 0:00:00.000146
+2021-01-03 00:19:19.962554
+shortest path between 9 and 1 is [9, 8, 7, 4, 1]
+
+
+
+('switch', 3)
+elapsed time: 0:00:00.000092
+2021-01-03 00:19:19.967781
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 9)
+elapsed time: 0:00:00.000134
+2021-01-03 00:19:19.970218
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 7)
+elapsed time: 0:00:00.000120
+2021-01-03 00:19:19.976862
+shortest path between 7 and 9 is [7, 8, 9]
+
+
+
+('switch', 9)
+elapsed time: 0:00:00.000131
+2021-01-03 00:19:19.978837
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 7)
+elapsed time: 0:00:00.000151
+2021-01-03 00:19:19.982375
+shortest path between 7 and 9 is [7, 8, 9]
+
+
+
+('switch', 3)
+elapsed time: 0:00:00.000277
+2021-01-03 00:19:19.985563
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 9)
+elapsed time: 0:00:00.000093
+2021-01-03 00:19:19.991104
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 3)
+elapsed time: 0:00:00.000137
+2021-01-03 00:19:19.993164
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 9)
+elapsed time: 0:00:00.000130
+2021-01-03 00:19:19.996105
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 7)
+elapsed time: 0:00:00.000138
+2021-01-03 00:19:19.999558
+shortest path between 7 and 9 is [7, 8, 9]
+
+
+
+('switch', 9)
+elapsed time: 0:00:00.000122
+2021-01-03 00:19:20.003444
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 7)
+elapsed time: 0:00:00.000142
+2021-01-03 00:19:20.005904
+shortest path between 9 and 1 is [9, 8, 7, 4, 1]
+
+
+
+('switch', 7)
+elapsed time: 0:00:00.000151
+2021-01-03 00:19:20.016363
+shortest path between 9 and 1 is [9, 8, 7, 4, 1]
+
+
+
+('switch', 9)
+elapsed time: 0:00:00.000092
+2021-01-03 00:19:20.025455
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 4)
+elapsed time: 0:00:00.000134
+2021-01-03 00:19:20.027966
+shortest path between 9 and 1 is [9, 8, 7, 4, 1]
+
+
+
+('switch', 4)
+elapsed time: 0:00:00.000154
+2021-01-03 00:19:20.031574
+shortest path between 9 and 1 is [9, 8, 7, 4, 1]
+
+
+
+('switch', 1)
+elapsed time: 0:00:00.000151
+2021-01-03 00:19:20.037288
+shortest path between 9 and 1 is [9, 8, 7, 4, 1]
+
+
+
+('switch', 1)
+elapsed time: 0:00:00.000131
+2021-01-03 00:19:20.039691
+shortest path between 9 and 1 is [9, 8, 7, 4, 1]
+
+
+
+('switch', 1)
+elapsed time: 0:00:00.000090
+2021-01-03 00:19:20.044510
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 1)
+elapsed time: 0:00:00.000110
+2021-01-03 00:19:20.046410
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+('switch', 1)
+elapsed time: 0:00:00.000136
+2021-01-03 00:19:20.052948
+shortest path between 1 and 9 is [1, 2, 3, 6, 9]
+
+
+
+2021-01-03 00:19:20.768108
+[[13. 25.  8. 27. 25. 26. 24. 26. 26.]
+ [42.  0.  0.  0. 24.  0.  0.  0.  0.]
+ [32.  0.  0.  0. 24.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0. 25.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+2021-01-03 00:19:20.770164
+[[13.  8.  8. 27.  8. 26. 24. 26. 26.]
+ [42.  0.  0.  0.  8.  0.  0.  0.  0.]
+ [32.  0.  0.  0.  9.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  8.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+2021-01-03 00:19:20.771271
+[[13.  8.  8.  6.  8.  8.  9.  7. 32.]
+ [42.  0.  0.  0.  8.  0.  0.  0. 33.]
+ [32.  0.  0.  0.  9.  0.  0.  0. 40.]
+ [ 0.  0.  0.  0.  8.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+2021-01-03 00:19:28.268572
+[[ 5.  8.  5.  6.  8.  8.  9.  7. 32.]
+ [26.  0.  0.  0.  8.  0.  0.  0. 33.]
+ [ 5.  0.  0.  0.  9.  0.  0.  0. 40.]
+ [ 0.  0.  0.  0.  8.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+2021-01-03 00:19:28.271860
+[[ 5.  8.  5.  6.  8.  4.  9.  7. 26.]
+ [26.  0.  0.  0.  8.  0.  0.  0.  5.]
+ [ 5.  0.  0.  0.  9.  0.  0.  0.  4.]
+ [ 0.  0.  0.  0.  8.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]]
+2021-01-03 00:19:28.273428
+[[ 5.  5.  5.  5.  4.  4.  5.  5. 26.]
+ [26.  0.  0.  0.  5.  0.  0.  0.  5.]
+ [ 5.  0.  0.  0.  5.  0.  0.  0.  4.]
+ [ 0.  0.  0.  0.  4.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.]]
